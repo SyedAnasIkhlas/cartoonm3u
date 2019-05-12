@@ -8,3 +8,14 @@ http://iheart-totiptv.better-than.tv:8080/iheart/2b72986be9314c139db95f6098d1c41
 http://iheart-totiptv.better-than.tv:8080/iheart/860605f7e16d4c6cacef72ef02ffa2c1.m3u8
 #EXTINF:-1,BABY TV
 http://iheart-totiptv.better-than.tv:8080/iheart/7773f3cef0334a28ad248552ea63d9e7.m3u8
+#EXTM3U
+#EXTINF:-1,Nickelodeon Denmark (DEN)
+http://tv.share1.nu/live/myvivid/XAUkhR1inI/12881.ts
+#EXTINF:-1,Nickelodeon Norway (NOR)
+http://tv.share1.nu/live/myvivid/XAUkhR1inI/12921.ts
+#EXTINF:-1,Nickelodeon Sweden (SWE)
+http://tv.share1.nu/live/myvivid/XAUkhR1inI/12911.ts
+#EXTINF:-1,Nickleodeon (ENG)
+http://tv.share1.nu/live/myvivid/XAUkhR1inI/70891.ts
+#EXTINF:-1,Nicklodeon Swe (NOR)
+http://tv.share1.nu/live/myvivid/XAUkhR1inI/74391.ts
