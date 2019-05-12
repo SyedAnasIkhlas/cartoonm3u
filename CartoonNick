@@ -1,4 +1,13 @@
-g
+#EXTINF:-1,Cartoon network
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+#EXTINF:-1, Al Jazeera Kids
+http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8?b?b*t$
+#EXTINF:-1 group-title=INSPIRATIONLINKS,RAXA TV (esp)
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?
+#EXTINF:-1 group-title=INSPIRATIONLINKS,ANIMANIA-MINIMAX
+http://teleclub.fr/animania.mp4?start=0#sthash.ulpTrB7G.dpuf
+#EXTINF:-1 group-title=INSPIRATIONLINKS,NICK JR (USA)
+http://185.13.236.197:4080/udp/224.0.0.120:1240
 
 
 
