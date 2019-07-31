@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:0,KIDS | Nick 2 HD SP
+http://192.99.100.74:8080/live/dancan/dancan/490.ts
+#EXTINF:0,KIDS | Disney XD
+http://192.99.100.74:8080/live/dancan/dancan/486.ts
+#EXTINF:0,KIDS | Disney Jr
+http://192.99.100.74:8080/live/dancan/dancan/485.ts
+#EXTINF:0,KIDS | Disney Channel
+http://192.99.100.74:8080/live/dancan/dancan/484.ts
+#EXTINF:0,KIDS | Cartoon Network
+http://192.99.100.74:8080/live/dancan/dancan/488.ts
+#EXTINF:0,KIDS | Boomerang ENG
+http://192.99.100.74:8080/live/dancan/dancan/487.ts
+#EXTINF:0,KIDS | Nickelodeon ENG
+http://192.99.100.74:8080/live/dancan/dancan/489.ts
+#EXTINF:0,KIDS | Disney XD ENG
+http://192.99.100.74:8080/live/dancan/dancan/24.ts
+#EXTINF:0,KIDS | Disney HD USA
+http://192.99.100.74:8080/live/dancan/dancan/22.ts
+
+You can copy and paste Kids IPTV list directly to VLC Player (Media -> Open Network Stream).
+
+Rate this post
